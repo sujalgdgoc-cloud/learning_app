@@ -1,16 +1,50 @@
-# demo_app
+# 📱 Learning App
 
-A new Flutter project.
+This project is a **Flutter learning application** where I recently added **two new pages** — a **Portfolio Page** and a **Responsive UI Page**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧩 New Updates
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Added:
+1. `portfolio.dart` – Displays my personal portfolio with a responsive layout.
+2. `next_page.dart` – Demonstrates a simple responsive UI example.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+### 🧍 Portfolio Page
+This page contains my profile image, interests, and navigation button.
+
+![Portfolio Page](https://github.com/your-username/learning_app/blob/master/assets/Screenshot_1.png)
+
+---
+
+### 🧱 Responsive UI Page
+This page demonstrates a simple responsive design example.
+
+![Responsive UI Page](https://github.com/your-username/learning_app/blob/master/assets/Screenshot_2.png)
+
+---
+
+## 🚀 Features
+- Simple navigation between pages.
+- Fully responsive UI.
+- Uses **Flutter Widgets** like `RichText`, `Image`, and `ElevatedButton`.
+- Clean and easy-to-read layout.
+
+---
+
+## 🛠️ Tech Stack
+- **Framework:** Flutter  
+- **Language:** Dart  
+
+---
+
+## 👤 Author
+**Sujal Pandey**
+
+---
+
+> 📝 _This project was made to explore Flutter UI design and navigation._
