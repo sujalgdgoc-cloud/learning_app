@@ -1,3 +1,5 @@
+import 'package:demo_app/drawer.dart';
+import 'package:demo_app/nav.dart';
 import 'package:demo_app/portfolio.dart';
 import 'package:flutter/material.dart';
 
@@ -20,7 +22,7 @@ class MyApp extends StatelessWidget {
 
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: portFolio(),
+      home: MyDrawer(),
     );
   }
 }
